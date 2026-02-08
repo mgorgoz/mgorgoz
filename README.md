@@ -18,7 +18,6 @@ I'm a **Forest Engineer** from Turkey, passionate about geospatial technologies,
 - Working with satellite imagery, GIS tools, and spatial data to support forestry and natural resource management
 - Exploring machine learning applications in land cover classification and forest fire risk assessment
 - Building automation tools for geospatial data processing
-- Currently developing [`taxdiv`](https://github.com/mgorgoz/taxonomic-diversity-r) — an R package for taxonomic diversity analysis using Deng entropy
 
 ### TR
 
@@ -27,7 +26,6 @@ Türkiye'den bir **Orman Mühendisi** olarak uzaktan algılama, coğrafi bilgi s
 - Uydu görüntüleri, CBS araçları ve mekansal verilerle ormancılık ve doğal kaynak yönetimi
 - Arazi örtüsü sınıflandırması ve orman yangını risk değerlendirmesinde makine öğrenmesi uygulamaları
 - Jeomekansal veri işleme otomasyon araçları geliştirme
-- Şu anda [`taxdiv`](https://github.com/mgorgoz/taxonomic-diversity-r) — Deng entropi ile taksonomik çeşitlilik analizi R paketi geliştiriyorum
 
 ---
 
