@@ -1,35 +1,53 @@
-<h1 align="center">Merhaba / Hello! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h1>
+<h1 align="center">Hello! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h1>
 
 <p align="center">
+  <b>Forest Engineer | R Package Developer | GIS & Remote Sensing</b>
+</p>
+
+<p align="center">
+  <a href="https://orcid.org/0000-0002-6398-0005">
+    <img src="https://img.shields.io/badge/ORCID-0000--0002--6398--0005-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID"/>
+  </a>
   <a href="https://muratgorgoz.com">
     <img src="https://img.shields.io/badge/Website-muratgorgoz.com-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"/>
-  </a>
-  <a href="https://github.com/mgorgoz">
-    <img src="https://img.shields.io/badge/GitHub-mgorgoz-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </p>
 
 ---
 
-### EN
+### About Me
 
-I'm a **Forest Engineer** from Turkey, passionate about geospatial technologies, remote sensing, and data-driven environmental analysis.
+I'm a **Forest Engineer** and **R package developer** from Turkey, working at the intersection of ecology, biodiversity, and computational tools.
 
-- Working with satellite imagery, GIS tools, and spatial data to support forestry and natural resource management
-- Exploring machine learning applications in land cover classification and forest fire risk assessment
-- Building automation tools for geospatial data processing
+- Author of [**taxdiv**](https://github.com/mgorgoz/taxonomic-diversity-r) — an R package for taxonomic diversity analysis (submitted to CRAN)
+- Passionate about geospatial technologies, remote sensing, and data-driven environmental analysis
+- Building tools that bridge the gap between ecological theory and practical data analysis
 
-### TR
+### Featured Project
 
-Türkiye'den bir **Orman Mühendisi** olarak uzaktan algılama, coğrafi bilgi sistemleri ve veri odaklı çevre analizleri üzerine çalışıyorum.
+<a href="https://github.com/mgorgoz/taxonomic-diversity-r">
+  <img src="https://github-stats-flame-nine.vercel.app/api/pin/?username=mgorgoz&repo=taxonomic-diversity-r&theme=tokyonight&hide_border=true" />
+</a>
 
-- Uydu görüntüleri, CBS araçları ve mekansal verilerle ormancılık ve doğal kaynak yönetimi
-- Arazi örtüsü sınıflandırması ve orman yangını risk değerlendirmesinde makine öğrenmesi uygulamaları
-- Jeomekansal veri işleme otomasyon araçları geliştirme
+**taxdiv** — Taxonomic Diversity Indices Using Deng Entropy
+
+[![R-CMD-check](https://github.com/mgorgoz/taxonomic-diversity-r/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/mgorgoz/taxonomic-diversity-r/actions/workflows/R-CMD-check.yaml)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+- 26 exported functions | 13 S3 methods | 7 plot types
+- 610 unit tests | R CMD check: 0 errors, 0 warnings
+- Implements Ozkan (2018) Deng entropy method, Clarke & Warwick indices, Shannon/Simpson
+- [Documentation](https://mgorgoz.github.io/taxonomic-diversity-r/) | [CRAN](https://cran.r-project.org/package=taxdiv) *(pending review)*
 
 ---
 
 ### Tech Stack
+
+#### Ecology & Data Science
+![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white)
+![RMarkdown](https://img.shields.io/badge/RMarkdown-276DC3?style=flat-square&logo=r&logoColor=white)
 
 #### GIS & Remote Sensing
 ![QGIS](https://img.shields.io/badge/QGIS-589632?style=flat-square&logo=qgis&logoColor=white)
@@ -37,16 +55,10 @@ Türkiye'den bir **Orman Mühendisi** olarak uzaktan algılama, coğrafi bilgi s
 ![Google Earth Engine](https://img.shields.io/badge/Google%20Earth%20Engine-4285F4?style=flat-square&logo=google-earth&logoColor=white)
 ![ENVI](https://img.shields.io/badge/ENVI-003366?style=flat-square&logoColor=white)
 
-#### Programming & Data
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
-
 #### Libraries & Tools
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![Rasterio](https://img.shields.io/badge/Rasterio-0A0A0A?style=flat-square&logoColor=white)
+![ggplot2](https://img.shields.io/badge/ggplot2-276DC3?style=flat-square&logo=r&logoColor=white)
 ![GeoPandas](https://img.shields.io/badge/GeoPandas-139C5A?style=flat-square&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
