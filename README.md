@@ -23,24 +23,6 @@ I'm a **Forest Engineer** and **R package developer** from Turkey, working at th
 - Passionate about geospatial technologies, remote sensing, and data-driven environmental analysis
 - Building tools that bridge the gap between ecological theory and practical data analysis
 
-### Featured Project
-
-<a href="https://github.com/mgorgoz/taxonomic-diversity-r">
-  <img src="https://github-stats-flame-nine.vercel.app/api/pin/?username=mgorgoz&repo=taxonomic-diversity-r&theme=tokyonight&hide_border=true" />
-</a>
-
-**taxdiv** — Taxonomic Diversity Indices Using Deng Entropy
-
-[![R-CMD-check](https://github.com/mgorgoz/taxonomic-diversity-r/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/mgorgoz/taxonomic-diversity-r/actions/workflows/R-CMD-check.yaml)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-
-- 26 exported functions | 13 S3 methods | 7 plot types
-- 610 unit tests | R CMD check: 0 errors, 0 warnings
-- Implements Ozkan (2018) Deng entropy method, Clarke & Warwick indices, Shannon/Simpson
-- [Documentation](https://mgorgoz.github.io/taxonomic-diversity-r/) | [CRAN](https://cran.r-project.org/package=taxdiv) *(pending review)*
-
----
-
 ### Tech Stack
 
 #### Ecology & Data Science
