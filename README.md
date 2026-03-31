@@ -17,11 +17,12 @@
 
 ### About Me
 
-I'm a **Forest Engineer** and **R package developer** from Turkey, working at the intersection of ecology, biodiversity, and computational tools.
+I'm a **Forest Engineer** from Turkey with an MSc in Forest Engineering from Isparta University of Applied Sciences.
 
-- Author of [**taxdiv**](https://github.com/mgorgoz/taxonomic-diversity-r) — an R package for taxonomic diversity analysis (submitted to CRAN)
-- Passionate about geospatial technologies, remote sensing, and data-driven environmental analysis
-- Building tools that bridge the gap between ecological theory and practical data analysis
+- Specialized in biodiversity analysis, ecological modeling, and taxonomic diversity
+- Working with satellite imagery, GIS, and spatial data for forestry and natural resource management
+- Developing open-source tools for ecological research using R and Python
+- Exploring machine learning applications in land cover classification and fire risk assessment
 
 ### Tech Stack
 
