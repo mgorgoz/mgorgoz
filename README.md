@@ -8,6 +8,9 @@
   <a href="https://orcid.org/0000-0002-6398-0005">
     <img src="https://img.shields.io/badge/ORCID-0000--0002--6398--0005-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID"/>
   </a>
+  <a href="https://www.linkedin.com/in/gorgozmurat/">
+    <img src="https://img.shields.io/badge/LinkedIn-gorgozmurat-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
   <a href="https://muratgorgoz.com">
     <img src="https://img.shields.io/badge/Website-muratgorgoz.com-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"/>
   </a>
